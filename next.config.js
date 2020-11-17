@@ -4,3 +4,12 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 module.exports = withBundleAnalyzer()
 
 
+// const withLess = require('@zeit/next-less')
+//
+// module.exports = withLess({
+//     cssModules: true,
+//     lessLoaderOptions: {
+//         javascriptEnabled: true,
+//         cssModules: true,
+//     }
+// })

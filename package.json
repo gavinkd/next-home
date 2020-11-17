@@ -1,6 +1,6 @@
 {
-  "name": "with-ant-design",
-  "version": "1.0.0",
+  "name": "Frank",
+  "version": "0.0.1",
   "scripts": {
     "dev": "next",
     "build": "next build",
